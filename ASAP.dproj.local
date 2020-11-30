@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/17 13:25:36.000.118,=D:\Dropbox\DelphiCode\Unit1.pas</Transaction>
+    <Transaction>2020/11/17 13:47:37.000.566,D:\Dropbox\DelphiCode\QuickFind.dfm=D:\Dropbox\DelphiCode\Unit1.dfm</Transaction>
+    <Transaction>2020/11/17 13:47:37.000.566,D:\Dropbox\DelphiCode\QuickFind.pas=D:\Dropbox\DelphiCode\Unit1.pas</Transaction>
+    <Transaction>2020/11/17 13:47:44.000.300,D:\Dropbox\DelphiCode\QuickFindApp.dproj=D:\Dropbox\DelphiCode\Project1.dproj</Transaction>
+    <Transaction>2020/11/20 15:41:26.000.772,D:\Dropbox\DelphiCode\QuickFind.dfm=D:\Dropbox\DelphiCode\uMainApp.dfm</Transaction>
+    <Transaction>2020/11/20 15:41:26.000.772,D:\Dropbox\DelphiCode\QuickFind.pas=D:\Dropbox\DelphiCode\uMainApp.pas</Transaction>
+    <Transaction>2020/11/23 19:14:36.000.749,=D:\Dropbox\DelphiCode\bass24\delphi\bass.pas</Transaction>
+    <Transaction>2020/11/23 19:15:27.000.645,D:\Dropbox\DelphiCode\bass24\delphi\bass.pas=</Transaction>
+    <Transaction>2020/11/23 19:16:38.000.084,=D:\Dropbox\DelphiCode\bass24\delphi\bass.pas</Transaction>
+    <Transaction>2020/11/24 11:20:42.000.181,=D:\Code\The-Drag-and-Drop-Component-Suite-for-Delphi-master\Demos\DetailedDemo\DropFile.pas</Transaction>
+    <Transaction>2020/11/24 11:24:26.000.248,D:\Code\The-Drag-and-Drop-Component-Suite-for-Delphi-master\Demos\DetailedDemo\DropFile.pas=</Transaction>
+    <Transaction>2020/11/24 13:58:20.000.310,=D:\Dropbox\DelphiCode\DropFile.pas</Transaction>
+    <Transaction>2020/11/24 14:18:46.000.917,D:\Dropbox\DelphiCode\DropFile.pas=</Transaction>
+    <Transaction>2020/11/25 15:42:40.000.387,D:\Dropbox\DelphiCode\ASAP.dproj=D:\Dropbox\DelphiCode\QuickFindApp.dproj</Transaction>
+    <Transaction>2020/11/30 12:10:33.000.811,D:\Dropbox\DelphiCode\uASAPMain.dfm=D:\Dropbox\DelphiCode\uMainApp.dfm</Transaction>
+    <Transaction>2020/11/30 12:10:33.000.811,D:\Dropbox\DelphiCode\uASAPMain.pas=D:\Dropbox\DelphiCode\uMainApp.pas</Transaction>
+    <Transaction>2020/11/30 12:14:34.000.277,=D:\Dropbox\DelphiCode\bass24\delphi\bass.pas</Transaction>
+    <Transaction>2020/11/30 12:27:07.866,=D:\Dropbox\DelphiCode\ASAP\ASAP\bass\bass.pas</Transaction>
+  </Transactions>
+</BorlandProject>
